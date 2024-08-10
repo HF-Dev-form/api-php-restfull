@@ -1,0 +1,16 @@
+{
+    "name": "books/api",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "FH-dev",
+            "email": "bobykarr@gmail.com"
+        }
+    ],
+    "require": {}
+}
