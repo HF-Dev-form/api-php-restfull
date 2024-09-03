@@ -1,13 +1,4 @@
-# Test materielelectrique.com
 
-L'objectif de ce test est de réaliser 3 apis liées à une gestion des 
-livres dans une bibliothèque
-
-Le temps nécessaire pour la réalisation du test est de 2 à 3 heures.
-
-Pour information, il n'est pas autorisé d'utiliser un framework développé par
-des tiers. Vous pouvez par contre réutiliser des scripts écrits par vos soins
-si vous le souhaitez.
 
 ## livrable
 Merci de fournir un fichier zip de l'ensemble du test réalisé et notes au besoin. 
